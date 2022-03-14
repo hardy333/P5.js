@@ -1,4 +1,6 @@
 
+![rose curves grid](rose-curves-grid.png)
+
 [codepen for this project](https://codepen.io/hardy333/pen/XWVJRvB)
 
 [Wiki](https://en.wikipedia.org/wiki/Rose_(mathematics))
